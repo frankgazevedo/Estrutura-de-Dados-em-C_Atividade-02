@@ -17,7 +17,7 @@ Repositório contendo as respostas da Lista de Exercícios da disciplina Estrutu
 
 6. Entrar com 15 numeros e escrever a raiz quadrada de cada numero.
 
-7. Ler 20 numeros inteiros e escrever quantos sãoo pares e quantos sãoo mpares.
+7. Ler 20 numeros inteiros e escrever quantos são pares e quantos são ímpares.
 
 8. Entrar com 15 numeros e escrever quantos numeros maiores que 30 foram digitados.
 
@@ -27,9 +27,9 @@ negativos.
 10. Entrar com dois numeros e escrever todos os numeros no intervalo fechado, do menor para
 o maior.
 
-11. Entrar com o nome e o salario bruto de 10 pessoas. Escrever o nome o valor da al quota do
-imposto de renda. Sendo que, se o for salario menor que R$ 600 e isento; salario >= R$ 600
-e < R$ 1.500 a al quota e de 10% do salario bruto e; salario >= R$ 1.500 a al quota e de
+11. Entrar com o nome e o salario bruto de 10 pessoas. Escrever o nome o valor da alíquota do
+imposto de renda. Sendo que, se o salario for menor que R$ 600 é isento; salario >= R$ 600
+e < R$ 1.500 a alíquota é de 10% do salario bruto e; salario >= R$ 1.500 a alíquota é de
 15% do salario bruto.
 
 12. Criar um algoritmo que entre com 3 notas de cada aluno de uma turma de 10 alunos e
@@ -39,9 +39,9 @@ medias maiores ou igual a 5.0.
 13. Entrar com numeros e escrever o quadrado de cada numero ate entrar um numero multiplo
 de 6 que deve ter seu quadrado tambem impresso.
 
-14. Chico tem 1.50 m e cresce 2 cent metros por ano, enquanto Juca tem 1.10 m e cresce 3
-cent metros por ano. Construir um algoritmo que calcula e escreva quantos anos serão
-necessarios para que Juca seja maior que Chico em pelo menos 10 cent metros.
+14. Chico tem 1.50 m e cresce 2 centímetros por ano, enquanto Juca tem 1.10 m e cresce 3
+centímetros por ano. Construir um algoritmo que calcula e escreva quantos anos serão
+necessarios para que Juca seja maior que Chico em pelo menos 10 centímetros.
 
-15. Ler 10 valores e contar quantos estão no intervalo entre 10 e 20 e quantos estãoo fora desse
+15. Ler 10 valores e contar quantos estão no intervalo entre 10 e 20 e quantos estão fora desse
 intervalo, mostre cada uma dessas informações.
